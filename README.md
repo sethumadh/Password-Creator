@@ -3,7 +3,7 @@
 Password Generator is an app for generating secure passwords using cryptographically secure pseudo-random number generators.
 
 ## Functionalities
-Your users should be able to:
+Users should be able to:
 - Generate a password based on the selected inclusion options
 - Copy the generated password to the computer's clipboard
 - See a strength rating for their generated password
