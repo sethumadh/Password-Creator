@@ -1,6 +1,8 @@
-#Password-Creator
+# Password-Creator
 
 Password Generator is an app for generating secure passwords using cryptographically secure pseudo-random number generators.
+![Pass1](https://user-images.githubusercontent.com/63349857/211440824-006ec885-81ca-4823-af7c-731f274453f4.png)
+
 
 ## Functionalities
 Users should be able to:
