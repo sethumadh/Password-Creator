@@ -1,3 +1,16 @@
+#Password-Creator
+
+Password Generator is an app for generating secure passwords using cryptographically secure pseudo-random number generators.
+
+## Functionalities
+Your users should be able to:
+- Generate a password based on the selected inclusion options
+- Copy the generated password to the computer's clipboard
+- See a strength rating for their generated password
+- View the optimal layout for the interface depending on their device's screen
+size
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
